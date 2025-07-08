@@ -22,9 +22,6 @@ git checkout main
 git pull
 Ardından, üzerinde çalışacağın task için yeni bir branch aç:
 
-bash
-Kopyala
-Düzenle
 git checkout -b "Task_Adi"
 Artık bu branch üzerinde geliştirmeye başlayabilirsin.
 
